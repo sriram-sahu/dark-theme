@@ -1,0 +1,38 @@
+.white-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #ffffff;
+}
+.dark-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #000000;
+}
+.nav-items {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+.theme-logo {
+  height: 50px;
+  align-self: center;
+}
+.theme-btn {
+  align-self: center;
+  background-color: transparent;
+  border: none;
+}
+.color-white {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 10px;
+}
+.color-black {
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 10px;
+}
